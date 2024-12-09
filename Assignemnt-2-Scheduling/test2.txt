@@ -1,0 +1,10 @@
+./process 1 p1
+./process 2 p1
+./process 6 p1
+./procesd 33 p1
+./process 4 p1
+./process 2 p1
+./process 3 p1
+./procesd 1 p1
+./process 2 p1
+./process 4 p1

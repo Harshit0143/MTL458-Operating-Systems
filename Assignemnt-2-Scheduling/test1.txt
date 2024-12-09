@@ -1,0 +1,28 @@
+./process 10 p2
+./process 5 p1
+./procesd 7 p5
+./procesd 7 p3
+./process 3 p4
+./process 5 p6
+
+
+./process 10 p2
+./procesd 7 p5
+./procesd 7 p3
+./process 5 p1
+./process 3 p4
+./process 5 p6
+
+hello
+
+
+./process 10 p2
+./procesd 7 p5
+./procesd 7 p3
+./process 5 p1
+./process 3 p4
+./process 5 p6
+./process 10 p2
+
+
+

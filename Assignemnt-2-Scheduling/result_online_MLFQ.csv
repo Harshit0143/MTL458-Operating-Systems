@@ -1,0 +1,21 @@
+Command,Finished,Error,Burst Time,Turnaround Time,Waiting Time,Response Time
+./procesd 7 p5,No,Yes,205,613,408,408
+./procesd 7 p3,No,Yes,205,818,613,613
+./procesd 7 p5,No,Yes,105,1336,1231,1231
+./procesd 7 p3,No,Yes,105,1441,1336,1336
+hello,No,Yes,105,1862,1757,1757
+./procesd 7 p5,No,Yes,105,2073,1968,1968
+./procesd 7 p3,No,Yes,105,2178,2073,2073
+./process 3 p4,Yes,No,3032,38281,35249,819
+./process 3 p4,Yes,No,3044,39955,36911,1547
+./process 3 p4,Yes,No,3025,40374,37349,2284
+./process 5 p1,Yes,No,5118,59633,54515,203
+./process 5 p1,Yes,No,5026,59949,54923,1441
+./process 5 p1,Yes,No,5038,60260,55222,2178
+./process 5 p6,Yes,No,5234,60780,55546,1024
+./process 5 p6,Yes,No,5107,60990,55883,1652
+./process 5 p6,Yes,No,5106,61201,56095,2389
+./process 10 p2,Yes,No,10179,80998,70819,1129
+./process 10 p2,Yes,No,10187,81203,71016,1862
+./process 10 p2,Yes,No,10187,81408,71221,2492
+./process 10 p2,Yes,No,10282,81513,71231,0
